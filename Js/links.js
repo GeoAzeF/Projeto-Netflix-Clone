@@ -1,0 +1,17 @@
+function paginasExternas(){
+    let theRev = document.getElementsByClassName('item')[0]
+    let thereWill = document.getElementsByClassName('item')[1]
+    let eyesWide = document.getElementsByClassName('item')[2]
+    let noCountry = document.getElementsByClassName('item')[3]
+    let wildTales = document.getElementsByClassName('item')[4]
+    let batBeg = document.getElementsByClassName('item')[5]
+    let seven = document.getElementsByClassName('item')[6]
+    let fromRussia = document.getElementsByClassName('item')[7]
+    let knivesOut = document.getElementsByClassName('item')[8]
+    let beowulf = document.getElementsByClassName('item')[9]
+    let theGentle = document.getElementsByClassName('item')[10]
+    let wolfOfWall = document.getElementsByClassName('item')[11]
+    let tGtBtU = document.getElementsByClassName('item')[12]
+    let dunkirk = document.getElementsByClassName('item')[13]
+    let rainMan = document.getElementsByClassName('item')[14]
+}
